@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "spot": "Cox's Bazar",
+    "img": "https://cdn.bangladeshscenictours.com/wp-content/uploads/2019/11/Exploring-Coxs-Bazar-990x490.jpg",
+    "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+    "resorts": [
+      {
+        "spotName": "Cox's Bazar",
+        "imgURL": "https://cf.bstatic.com/xdata/images/hotel/square200/67598705.webp?k=edb01fd32ead7c5706966b02fc5364c46ce37ca4b5c79b6a88c6e60c1ae231e1&o=",
+        "name": "Hotel Silver Bay",
+        "details": "Located within a 7-minute walk of Cox's Bazar Sea Beach and 1.6 miles of Kelātali, Hotel Silver Bay provides rooms in Cox's Bazar. Place was awesome. Everything is all right.",
+        "rating": 4,
+        "perNight": 100,
+        "review": 50
+      },
+      {
+        "imgURL": "https://cf.bstatic.com/xdata/images/hotel/square200/196166553.webp?k=c717ace6c5c713bd088ce789184f234c721dace7da0d8a60263e0e52b9183754&o=",
+        "name": "Prime Park Hotel",
+        "details": "Located in Cox's Bazar, a 12-minute walk from Cox's Bazar Sea Beach, Prime Park Hotel features views of the mountain. Their service was awesome. Every stuff was nice and very helpful.",
+        "rating": 4.5,
+        "perNight": 200,
+        "review": 38
+      },
+      {
+        "imgURL": "https://cf.bstatic.com/xdata/images/hotel/square200/220741503.webp?k=154f769bc1bc91e5eac3467a025c999c047ad8ea62e254dd71f95f5c0b73f59c&o=",
+        "name": "Hotel Sea Cox",
+        "details": "Located in Cox's Bazar, within a 10-minute walk of Cox's Bazar Sea Beach and 1.4 miles of Kelātali, Hotel Sea Cox has accommodations with a restaurant and free WiFi as well as free.",
+        "rating": 4,
+        "perNight": 100,
+        "review": 50
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "spot": "Sajek",
+    "img": "https://cdn.pixabay.com/photo/2019/12/12/15/16/bangladesh-4690978__340.jpg",
+    "description": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati.",
+    "resorts": [
+      {
+        "spotName": "Sajek",
+        "imgURL": "https://dynamic-media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/26/9e/ed/57/caption.jpg?w=500&h=500&s=1",
+        "name": "The Grand Aizawl",
+        "details": "Located within a 7-minute walk of sajek and 1.6 miles of Kelātali, Hotel Silver Bay provides rooms in Cox's Bazar. Place was awesome. Everything is all right.",
+        "rating": 4,
+        "perNight": 100,
+        "review": 50
+      },
+      {
+        "imgURL": "https://cf.bstatic.com/xdata/images/hotel/square600/359549261.webp?k=f4aec44805d81609be1195bb6705edf0d8723da4d7b5adc16658dc219b10d88f&o=&s=1",
+        "name": "Hotel Dinthar Zara",
+        "details": "Located in Sajek, a 12-minute walk from Cox's Bazar Sea Beach, Prime Park Hotel features views of the mountain. Their service was awesome. Every stuff was nice and very helpful.",
+        "rating": 4.5,
+        "perNight": 200,
+        "review": 38
+      },
+      {
+        "imgURL": "https://cf.bstatic.com/xdata/images/hotel/square600/287399038.webp?k=0da7c9e3e3fdf164c13f9903f55433a6dafb1ef8d013ce1eed53b087101b6e60&o=&s=1",
+        "name": "Vandin Homestay",
+        "details": "Located in Sajek, within a 10-minute walk of Cox's Bazar Sea Beach and 1.4 miles of Kelātali, Hotel Sea Cox has accommodations with a restaurant and free WiFi as well as free.",
+        "rating": 4,
+        "perNight": 100,
+        "review": 50
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "spot": "Sundarbon",
+    "img": "https://www.thestatesman.com/wp-content/uploads/2020/06/tger.jpg",
+    "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal.",
+    "resorts": [
+      {
+        "spotName": "Sundarbon",
+        "imgURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1f/8e/d5/solitary-nook.jpg?w=500&h=500&s=1",
+        "name": "Solitary Nook",
+        "details": "Located within a 7-minute walk of Sundarban and 1.6 miles of Kelātali, Hotel Silver Bay provides rooms in Cox's Bazar. Place was awesome. Everything is all right.",
+        "rating": 4,
+        "perNight": 300,
+        "review": 50
+      },
+      {
+        "imgURL": "https://www.sunderbans-national-park.com/img/sunderbans-tiger-land1.jpg",
+        "name": "Sunderbans Tiger Land",
+        "details": "Located in Sajek, a 12-minute walk from Cox's Bazar Sea Beach, Prime Park Hotel features views of the mountain. Their service was awesome. Every stuff was nice and very helpful.",
+        "rating": 4.5,
+        "perNight": 400,
+        "review": 38
+      },
+      {
+        "imgURL": "https://www.sunderbans-national-park.com/img/SunderbansTigerCamp.jpg",
+        "name": "Sunderbans Tiger Camp",
+        "details": "Located in Sajek, within a 10-minute walk of Cox's Bazar Sea Beach and 1.4 miles of Kelātali, Hotel Sea Cox has accommodations with a restaurant and free WiFi as well as free.",
+        "rating": 3.8,
+        "perNight": 250,
+        "review": 40
+      }
+    ]
+  }
+]
